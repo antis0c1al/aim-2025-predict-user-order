@@ -20,7 +20,6 @@
 - `action_type_info.csv` - расшифровка действий из кликстрима
 - `widget_info.csv` - расшифровка названий виджетов
 - `test_users.csv` - id юзеров, для которых нужно предсказать вероятность покупки в следующий месяц
-- `baseline_1_submission.csv` - пример submission из baseline_1.ipynb
 
 ## actions_history Columns
 
