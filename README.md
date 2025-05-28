@@ -12,7 +12,7 @@
 
 ## Files
 
-- \textbf{actions_history} - parquet, кликстрим пользователей в ozon fresh (нет данных о просмотрах товаров)
+- $\textbf{actions_history}$ - parquet, кликстрим пользователей в ozon fresh (нет данных о просмотрах товаров)
 - search_history - parquet, история поисковых запросов
 - product_information.csv - информация о товарах из ozon fresh
 - action_type_info.csv - расшифровка действий из кликстрима
