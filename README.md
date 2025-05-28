@@ -49,3 +49,7 @@
 - `category_name` - название категории
 - `price` - цена товара
 - `discount_price` - цена товара со скидкой
+
+## Evaluation
+
+Метрика качества - ROC AUC.
