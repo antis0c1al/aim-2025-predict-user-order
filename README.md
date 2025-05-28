@@ -1,3 +1,5 @@
+Оформление задачи находится в predict-user-order.ipynb
+
 # Overview
 
 Нам доступны данные сервиса доставки продуктов ozon fresh https://www.ozon.ru/category/supermarket-25000/?miniapp=supermarket.
